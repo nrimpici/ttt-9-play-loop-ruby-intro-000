@@ -45,3 +45,4 @@ def play(board)
   end
   x += 1
 end
+end
