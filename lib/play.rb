@@ -36,8 +36,8 @@ def turn(board)
 end
 
 # Define your play method below
+G == 0
 def play(board)
-  G == 0
   until G == 10
     turn
     G == G + 1
