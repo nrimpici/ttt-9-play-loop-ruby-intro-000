@@ -41,5 +41,5 @@ def play(board)
   until G >= 10
     turn
   end
-    G += G + 1
+  G += G + 1
 end
