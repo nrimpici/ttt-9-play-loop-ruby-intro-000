@@ -42,7 +42,7 @@ def play(board)
   while x <= 10
     if x != 10
     turn(board)
-  end
+    end
   end
   x += 1
 end
