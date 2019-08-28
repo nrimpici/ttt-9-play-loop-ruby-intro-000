@@ -37,7 +37,6 @@ end
 
 # Define your play method below
 x = 0
-
 def play(board)
   while x <= 10
     turn(board)
