@@ -39,7 +39,7 @@ end
 G = 0
 def play(board)
   until G >= 10
-    turn
+    turn(board)
   end
   G += G + 1
 end
