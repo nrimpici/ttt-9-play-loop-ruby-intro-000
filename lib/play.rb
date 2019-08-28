@@ -43,6 +43,6 @@ def play(board)
     if x != 10
     turn(board)
   end
+  end
   x += 1
-end
 end
